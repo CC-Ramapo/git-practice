@@ -3,7 +3,7 @@
 ## Course Information
 
 Professor Christina Connor\
-Time: MWF, 9:00-11:00\
+Time: TTh, 9:00-11:00\
 Office: LC 205
 
 ## Readings
